@@ -1,0 +1,1 @@
+Notebook used as exercise on the basic functions of pandas. The csv. file has been obtained from the dataquest.io site, which also provided the questions and exercises to solve. The main scope of the exercises is to be able to understand how the pandas library works in terms of data cleaning and data visualization.
